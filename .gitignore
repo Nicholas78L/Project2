@@ -1,3 +1,6 @@
 .idea
 venv
+/venv
 .DStore
+DS_Store
+.log
